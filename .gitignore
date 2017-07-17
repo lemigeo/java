@@ -1,5 +1,9 @@
 /.metadata/
-/.recommenders/
-/bin/
-/build/
-build.gradle
+.recommenders/
+RemoteSystemsTempFiles/
+basic/*.classpath
+basic/*.project
+basic/.settings/
+basic/bin/
+basic/.gradle
+

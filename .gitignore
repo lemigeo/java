@@ -5,5 +5,5 @@ basic/*.classpath
 basic/*.project
 basic/.settings/
 basic/bin/
-basic/.gradle
+basic/.gradle/
 
